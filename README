@@ -1,0 +1,2 @@
+
+This is just test code. I am trying to sort out the experimental gradle NDK builds. I have several projects that use the ndk-build (which I understand rather well) that will eventually have to be migrated. 
